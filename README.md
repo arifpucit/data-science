@@ -1,5 +1,6 @@
 # data-science
 This repository contains all the notebooks files along with other resources like datasets and images.
+For Lecture Slides and other misc resources visit: http://arifbutt.me
 
 Section-1 gives the overview of Data Science and Machine Learning in general. The tools and technologies involved
 Section-2 covers the basic concepts of Python programming. Optional for those who are comfortable programming in Python.
