@@ -1,0 +1,5 @@
+Word Count: 2 Hello Students.
+Word Count: 7 Welcome to File Handling with Arif Butt
+Word Count: 9 I learn a lot when I teach my students
+Word Count: 14 Hope learning will be fun for you all, at least it is for me
+Word Count: 2 Happy Learning

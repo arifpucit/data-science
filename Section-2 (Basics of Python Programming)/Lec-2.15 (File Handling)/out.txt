@@ -1,0 +1,6 @@
+Writing again in the out.txt file
+Python is Awesome!
+Apple
+Banana
+
+Oranges
