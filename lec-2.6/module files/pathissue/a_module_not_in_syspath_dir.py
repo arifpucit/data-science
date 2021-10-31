@@ -1,1 +1,0 @@
-print("This module is located in '/Users/arif/Documents/DS-522/Demo-Files/Section-2/Lec-2.6/module files/pathissue' directory")
