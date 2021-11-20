@@ -1,0 +1,3 @@
+This is a message to all students. This is a github gist. The file is named as message.txt.
+All students should practice creating their own public and private gists.
+Happy Learning
