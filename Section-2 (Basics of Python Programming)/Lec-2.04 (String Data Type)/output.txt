@@ -1,5 +1,0 @@
-camel
-case
-stop
-
-camel-case-stop-
