@@ -1,0 +1,4 @@
+Learning Python is Fun!
+Apple
+Banana
+Oranges

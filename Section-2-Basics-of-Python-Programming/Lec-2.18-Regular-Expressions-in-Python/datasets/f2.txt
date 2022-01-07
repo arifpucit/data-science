@@ -1,0 +1,8 @@
+X-spam-count: 0.837
+X-spam-count: 0.999
+X-spam-count: 0.245
+X-spam-count: 0.345
+X-spam-count: 0.363
+X-spam-count: 0.873
+X-spam-count: 0.918
+X-spam-count: 0.939

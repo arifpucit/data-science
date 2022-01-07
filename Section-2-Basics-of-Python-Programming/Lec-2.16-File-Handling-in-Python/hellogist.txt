@@ -1,0 +1,3 @@
+This is a message to all my students, studying the course titled "Tools and Techniques for Data Science". This is a github gist for the course, and will contain some of the related files for practice purpose. 
+The file is named as hellogist.txt. All students should practice creating their own public and private gists, upload some files and try cloning and pushing as you have done with normal git repositories.
+Happy Learning
