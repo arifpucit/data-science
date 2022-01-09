@@ -43,7 +43,7 @@ def mysort(numbers, inplace=False):
         for i in range(0, n, 1):
             min_idx = i
             for j in range(i+1, n):
-                if numbers[min_idx] > numbers[j]:
+                if mylist[min_idx] > mylist[j]:#issue
                     min_idx = j
             # Swap the found minimum element with the first element        
             mylist[i], mylist[min_idx] = mylist[min_idx], mylist[i]
