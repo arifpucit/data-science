@@ -1,0 +1,16 @@
+rollno,gender,group,age,math,english,urdu
+MS01,female,group B,28.0,72.0,72,74.0
+MS03,female,group B,21.0,,95,93.0
+MS06,female,group B,,71.0,83,78.0
+MS07,female,group B,47.0,88.0,95,92.0
+MS08,male,group B,33.0,40.0,43,39.0
+MS10,female,group B,33.0,38.0,60,50.0
+MS13,female,group B,25.0,65.0,81,73.0
+MS18,female,group B,31.0,18.0,32,28.0
+MS22,female,group B,32.0,65.0,75,70.0
+MS27,male,group B,,69.0,54,55.0
+MS32,female,group B,,63.0,65,61.0
+MS40,male,group B,33.0,57.0,56,57.0
+MS43,female,group B,38.0,53.0,58,65.0
+MS44,male,group B,31.0,59.0,65,66.0
+MS46,male,group B,26.0,65.0,54,57.0
