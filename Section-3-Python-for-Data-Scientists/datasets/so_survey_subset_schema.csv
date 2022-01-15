@@ -1,0 +1,11 @@
+Column,QuestionText
+Respondent,Randomized respondent ID number (not in order of survey response time)
+MainBranch,"Which of the following options best describes you today? Here, by ""developer"" we mean ""someone who writes code."""
+Hobbyist,Do you code as a hobby?
+Country,In which country do you currently reside?
+YearsCode,"Including any education, how many years have you been coding?"
+ConvertedComp,"Salary converted to annual USD salaries using the exchange rate on 2019-02-01, assuming 12 working months and 50 working weeks."
+LanguageWorkedWith,"Which of the following programming, scripting, and markup languages have you done extensive development work in over the past year, and which do you want to work in over the next year?  (If you both worked with the language and want to continue to do so, please check both boxes in that row.)"
+SocialMedia,What social media site do you use the most?
+Age,"What is your age (in years)? If you prefer not to answer, you may leave this question blank."
+Gender,"Which of the following do you currently identify as? Please select all that apply. If you prefer not to answer, you may leave this question blank."

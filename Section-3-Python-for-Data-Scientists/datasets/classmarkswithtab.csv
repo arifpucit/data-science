@@ -1,0 +1,51 @@
+rollno	gender	group	age	math	english	urdu
+MS01	female	group B	28.0	72.0	72	74.0
+MS02	female	group C	33.0	69.0	90	88.0
+MS03	female	group B	21.0		95	93.0
+MS04	male	group A	44.0	47.0	57	44.0
+MS05	male	group C	54.0	76.0	78	
+MS06	female	group B		71.0	83	78.0
+MS07	female	group B	47.0	88.0	95	92.0
+MS08	male	group B	33.0	40.0	43	39.0
+MS09	male	group D	27.0	64.0	64	67.0
+MS10	female	group B	33.0	38.0	60	50.0
+MS11	male	group C	46.0	58.0	54	52.0
+MS12	male	group D	53.0	40.0	52	43.0
+MS13	female	group B	25.0	65.0	81	73.0
+MS14	male	group A	26.0	78.0	72	70.0
+MS15	female	group A	25.0	50.0	53	58.0
+MS16	female	group C	29.0	69.0	75	78.0
+MS17	male	group C	22.0	88.0	89	86.0
+MS18	female	group B	31.0	18.0	32	28.0
+MS19	male	group C	33.0	46.0	42	46.0
+MS20	female	group C	36.0	54.0	58	
+MS21	male	group D	34.0	66.0	69	63.0
+MS22	female	group B	32.0	65.0	75	70.0
+MS23	male	group D	31.0	44.0	54	53.0
+MS24	female	group C	37.0		73	73.0
+MS25	male	group D	33.0	74.0	71	80.0
+MS26	male	group A	39.0	73.0	74	72.0
+MS27	male	group B		69.0	54	55.0
+MS28	female	group C	47.0	67.0	69	75.0
+MS29	male	group C	44.0	70.0	70	65.0
+MS30	female	group D	42.0	62.0	70	75.0
+MS31	female	group D	41.0	69.0	74	74.0
+MS32	female	group B		63.0	65	61.0
+MS33	female	group E	29.0	56.0	72	65.0
+MS34	male	group D	34.0	40.0	42	38.0
+MS35	male	group E	45.0	97.0	87	82.0
+MS36	male	group E	31.0	81.0	81	79.0
+MS37	female	group D	28.0	74.0	81	
+MS38	female	group D	26.0	50.0	64	59.0
+MS39	female	group D	36.0	75.0	90	88.0
+MS40	male	group B	33.0	57.0	56	57.0
+MS41	male	group C	35.0	55.0	61	54.0
+MS42	female	group C	22.0	58.0	73	68.0
+MS43	female	group B	38.0	53.0	58	65.0
+MS44	male	group B	31.0	59.0	65	66.0
+MS45	female	group E	28.0		56	54.0
+MS46	male	group B	26.0	65.0	54	57.0
+MS47	female	group A	36.0	55.0	65	62.0
+MS48	female	group C	30.0	66.0	71	76.0
+MS49	female	group D	40.0	57.0	74	76.0
+MS50	male	group C	37.0	66.0	78	81.0
