@@ -1,0 +1,102 @@
+Item_Identifier	Item_Weight	Item_Fat_Content	Item_Visibility	Item_Type	Item_MRP	Outlet_Identifier	Outlet_Establishment_Year	Outlet_Size	Outlet_Location_Type	Outlet_Type	Item_Outlet_Sales
+FDA15	9.3	Low Fat	0.016047301	Dairy	249.8092	OUT049	1999	Medium	Tier 1	Supermarket Type1	3735.138
+DRC01	5.92	Regular	0.019278216	Soft Drinks	48.2692	OUT018	2009	Medium	Tier 3	Supermarket Type2	443.4228
+FDN15	17.5	Low Fat	0.016760075	Meat	141.618	OUT049	1999	Medium	Tier 1	Supermarket Type1	2097.27
+FDX07	19.2	Regular	0.0	Fruits and Vegetables	182.095	OUT010	1998		Tier 3	Grocery Store	732.38
+NCD19	8.93	Low Fat	0.0	Household	53.8614	OUT013	1987	High	Tier 3	Supermarket Type1	994.7052
+FDP36	10.395	Regular	0.0	Baking Goods	51.4008	OUT018	2009	Medium	Tier 3	Supermarket Type2	556.6088
+FDO10	13.65	Regular	0.012741088999999999	Snack Foods	57.6588	OUT013	1987	High	Tier 3	Supermarket Type1	343.5528
+FDP10		Low Fat	0.127469857	Snack Foods	107.7622	OUT027	1985	Medium	Tier 3	Supermarket Type3	4022.7636
+FDH17	16.2	Regular	0.016687114	Frozen Foods	96.9726	OUT045	2002		Tier 2	Supermarket Type1	1076.5986
+FDU28	19.2	Regular	0.09444959	Frozen Foods	187.8214	OUT017	2007		Tier 2	Supermarket Type1	4710.535
+FDY07	11.8	Low Fat	0.0	Fruits and Vegetables	45.5402	OUT049	1999	Medium	Tier 1	Supermarket Type1	1516.0266
+FDA03	18.5	Regular	0.045463773	Dairy	144.1102	OUT046	1997	Small	Tier 1	Supermarket Type1	2187.153
+FDX32	15.1	Regular	0.1000135	Fruits and Vegetables	145.4786	OUT049	1999	Medium	Tier 1	Supermarket Type1	1589.2646
+FDS46	17.6	Regular	0.047257328	Snack Foods	119.6782	OUT046	1997	Small	Tier 1	Supermarket Type1	2145.2076
+FDF32	16.35	Low Fat	0.06802430000000001	Fruits and Vegetables	196.4426	OUT013	1987	High	Tier 3	Supermarket Type1	1977.4260000000002
+FDP49	9.0	Regular	0.06908896099999999	Breakfast	56.3614	OUT046	1997	Small	Tier 1	Supermarket Type1	1547.3192
+NCB42	11.8	Low Fat	0.008596051	Health and Hygiene	115.3492	OUT018	2009	Medium	Tier 3	Supermarket Type2	1621.8888
+FDP49	9.0	Regular	0.06919637599999999	Breakfast	54.3614	OUT049	1999	Medium	Tier 1	Supermarket Type1	718.3982
+DRI11		Low Fat	0.034237682	Hard Drinks	113.2834	OUT027	1985	Medium	Tier 3	Supermarket Type3	2303.6679999999997
+FDU02	13.35	Low Fat	0.10249212	Dairy	230.5352	OUT035	2004	Small	Tier 2	Supermarket Type1	2748.4224
+FDN22	18.85	Regular	0.138190277	Snack Foods	250.8724	OUT013	1987	High	Tier 3	Supermarket Type1	3775.086
+FDW12		Regular	0.035399923	Baking Goods	144.5444	OUT027	1985	Medium	Tier 3	Supermarket Type3	4064.0432
+NCB30	14.6	Low Fat	0.025698133999999997	Household	196.5084	OUT035	2004	Small	Tier 2	Supermarket Type1	1587.2672
+FDC37		Low Fat	0.057556998	Baking Goods	107.6938	OUT019	1985	Small	Tier 1	Grocery Store	214.3876
+FDR28	13.85	Regular	0.025896485	Frozen Foods	165.021	OUT046	1997	Small	Tier 1	Supermarket Type1	4078.025
+NCD06	13.0	Low Fat	0.099887103	Household	45.906000000000006	OUT017	2007		Tier 2	Supermarket Type1	838.908
+FDV10	7.645	Regular	0.06669343700000001	Snack Foods	42.3112	OUT035	2004	Small	Tier 2	Supermarket Type1	1065.28
+DRJ59	11.65	low fat	0.019356131999999998	Hard Drinks	39.1164	OUT013	1987	High	Tier 3	Supermarket Type1	308.9312
+FDE51	5.925	Regular	0.161466534	Dairy	45.5086	OUT010	1998		Tier 3	Grocery Store	178.4344
+FDC14		Regular	0.072221801	Canned	43.6454	OUT019	1985	Small	Tier 1	Grocery Store	125.8362
+FDV38	19.25	Low Fat	0.17034855100000001	Dairy	55.7956	OUT010	1998		Tier 3	Grocery Store	163.7868
+NCS17	18.6	Low Fat	0.080829372	Health and Hygiene	96.4436	OUT018	2009	Medium	Tier 3	Supermarket Type2	2741.7644
+FDP33	18.7	Low Fat	0.0	Snack Foods	256.6672	OUT018	2009	Medium	Tier 3	Supermarket Type2	3068.0064
+FDO23	17.85	Low Fat	0.0	Breads	93.1436	OUT045	2002		Tier 2	Supermarket Type1	2174.5028
+DRH01	17.5	Low Fat	0.097904029	Soft Drinks	174.8738	OUT046	1997	Small	Tier 1	Supermarket Type1	2085.2856
+NCX29	10.0	Low Fat	0.08929113699999999	Health and Hygiene	146.7102	OUT049	1999	Medium	Tier 1	Supermarket Type1	3791.0652
+FDV20		Regular	0.059511812000000004	Fruits and Vegetables	128.0678	OUT027	1985	Medium	Tier 3	Supermarket Type3	2797.6916
+DRZ11	8.85	Regular	0.113123893	Soft Drinks	122.5388	OUT018	2009	Medium	Tier 3	Supermarket Type2	1609.9044
+FDX10		Regular	0.12311145300000001	Snack Foods	36.9874	OUT027	1985	Medium	Tier 3	Supermarket Type3	388.1614
+FDB34		Low Fat	0.026480953999999998	Snack Foods	87.6198	OUT027	1985	Medium	Tier 3	Supermarket Type3	2180.495
+FDU02	13.35	Low Fat	0.102511504	Dairy	230.6352	OUT046	1997	Small	Tier 1	Supermarket Type1	3435.528
+FDK43	9.8	Low Fat	0.02681843	Meat	126.00200000000001	OUT013	1987	High	Tier 3	Supermarket Type1	2150.534
+FDA46	13.6	Low Fat	0.117818348	Snack Foods	192.9136	OUT049	1999	Medium	Tier 1	Supermarket Type1	2527.3768
+FDC02	21.35	Low Fat	0.06910283099999999	Canned	259.9278	OUT018	2009	Medium	Tier 3	Supermarket Type2	6768.5228
+FDL50	12.15	Regular	0.042277867000000004	Canned	126.5046	OUT013	1987	High	Tier 3	Supermarket Type1	373.5138
+FDM39	6.42	LF	0.08949892599999999	Dairy	178.1002	OUT010	1998		Tier 3	Grocery Store	358.2004
+NCP05	19.6	Low Fat	0.0	Health and Hygiene	153.3024	OUT045	2002		Tier 2	Supermarket Type1	2428.8384
+FDV49	10.0	Low Fat	0.025879577	Canned	265.2226	OUT045	2002		Tier 2	Supermarket Type1	5815.0972
+FDL12	15.85	Regular	0.121632721	Baking Goods	60.622	OUT046	1997	Small	Tier 1	Supermarket Type1	2576.646
+FDS02		Regular	0.25539489600000004	Dairy	196.8794	OUT019	1985	Small	Tier 1	Grocery Store	780.3176
+NCL17	7.39	Low Fat	0.067779712	Health and Hygiene	143.8812	OUT046	1997	Small	Tier 1	Supermarket Type1	3134.5864
+FDM40	10.195	Low Fat	0.159803853	Frozen Foods	141.5154	OUT013	1987	High	Tier 3	Supermarket Type1	850.8924
+FDR13	9.895	Regular	0.028696932	Canned	117.0492	OUT013	1987	High	Tier 3	Supermarket Type1	810.9444
+FDA43	10.895	Low Fat	0.065041581	Fruits and Vegetables	196.3794	OUT017	2007		Tier 2	Supermarket Type1	3121.2704
+NCP18	12.15	Low Fat	0.028760012999999997	Household	151.4708	OUT017	2007		Tier 2	Supermarket Type1	4815.0656
+FDK21	7.905	Low Fat	0.010053105	Snack Foods	249.0408	OUT018	2009	Medium	Tier 3	Supermarket Type2	6258.52
+NCX54	9.195	Low Fat	0.048157338	Household	106.1622	OUT045	2002		Tier 2	Supermarket Type1	2117.244
+DRK35	8.365	Low Fat	0.071958197	Hard Drinks	38.0506	OUT049	1999	Medium	Tier 1	Supermarket Type1	796.9626
+FDY21	15.1	Low Fat	0.17348130399999998	Snack Foods	194.511	OUT046	1997	Small	Tier 1	Supermarket Type1	4910.275
+FDI26		Low Fat	0.061082177	Canned	180.0344	OUT019	1985	Small	Tier 1	Grocery Store	892.172
+FDM20	10.0	Low Fat	0.0	Fruits and Vegetables	246.9144	OUT018	2009	Medium	Tier 3	Supermarket Type2	3185.1872
+FDV27	7.97	Regular	0.040071131	Meat	87.3514	OUT045	2002		Tier 2	Supermarket Type1	1062.6168
+FDF09		Low Fat	0.012090074	Fruits and Vegetables	38.2848	OUT027	1985	Medium	Tier 3	Supermarket Type3	484.7024
+FDY40		Regular	0.15028599	Frozen Foods	51.0692	OUT019	1985	Small	Tier 1	Grocery Store	147.8076
+FDY45		Low Fat	0.026015518999999997	Snack Foods	255.8356	OUT027	1985	Medium	Tier 3	Supermarket Type3	2543.356
+FDC46	17.7	LF	0.195068226	Snack Foods	185.4266	OUT010	1998		Tier 3	Grocery Store	184.4266
+FDH19	19.35	Low Fat	0.033082215	Meat	172.5738	OUT035	2004	Small	Tier 2	Supermarket Type1	4865.6664
+FDZ03	13.65	Regular	0.078946455	Dairy	186.024	OUT045	2002		Tier 2	Supermarket Type1	1118.5439999999999
+DRH37	17.6	Low Fat	0.041700756	Soft Drinks	164.8526	OUT045	2002		Tier 2	Supermarket Type1	2302.3364
+NCI17	8.645	Low Fat	0.14342264300000002	Health and Hygiene	95.84100000000001	OUT046	1997	Small	Tier 1	Supermarket Type1	2027.361
+FDJ58	15.6	Regular	0.10529607199999999	Snack Foods	170.1764	OUT046	1997	Small	Tier 1	Supermarket Type1	3435.528
+FDL12	15.85	Regular	0.121531501	Baking Goods	59.222	OUT013	1987	High	Tier 3	Supermarket Type1	599.22
+FDH35	18.25	Low Fat	0.0	Starchy Foods	164.7526	OUT045	2002		Tier 2	Supermarket Type1	4604.6728
+FDG02	7.855	Low Fat	0.011324862	Canned	189.6188	OUT017	2007		Tier 2	Supermarket Type1	2285.0256
+NCZ18	7.825	low fat	0.186357148	Household	254.3698	OUT049	1999	Medium	Tier 1	Supermarket Type1	5580.7356
+FDC29	8.39	Regular	0.024205661	Frozen Foods	114.0176	OUT046	1997	Small	Tier 1	Supermarket Type1	2290.3520000000003
+FDQ10	12.85	Low Fat	0.033230816	Snack Foods	172.3422	OUT049	1999	Medium	Tier 1	Supermarket Type1	1207.0954
+FDN48		Low Fat	0.113720344	Baking Goods	89.9804	OUT019	1985	Small	Tier 1	Grocery Store	643.1628
+FDL04	19.0	Low Fat	0.11255650699999999	Frozen Foods	104.9622	OUT017	2007		Tier 2	Supermarket Type1	1587.933
+FDV25	5.905	Low Fat	0.0	Canned	222.5456	OUT045	2002		Tier 2	Supermarket Type1	5305.0944
+FDD58	7.76	Low Fat	0.05935224099999999	Snack Foods	101.87	OUT046	1997	Small	Tier 1	Supermarket Type1	1697.79
+FDN04	11.8	reg	0.014087057	Frozen Foods	180.3344	OUT046	1997	Small	Tier 1	Supermarket Type1	1427.4752
+FDV45	16.75	low fat	0.045230944	Snack Foods	187.9556	OUT018	2009	Medium	Tier 3	Supermarket Type2	4693.89
+NCL18		Low Fat	0.293417759	Household	194.6136	OUT019	1985	Small	Tier 1	Grocery Store	583.2408
+FDR12		Regular	0.031382044	Baking Goods	171.3764	OUT027	1985	Medium	Tier 3	Supermarket Type3	3091.9752
+FDG20	15.5	Regular	0.12639886	Fruits and Vegetables	177.0028	OUT017	2007		Tier 2	Supermarket Type1	2479.4392
+FDZ55	6.055	Low Fat	0.025403897999999998	Fruits and Vegetables	160.99200000000002	OUT035	2004	Small	Tier 2	Supermarket Type1	2716.4640000000004
+FDQ49		Regular	0.039057677	Breakfast	155.963	OUT027	1985	Medium	Tier 3	Supermarket Type3	3285.723
+FDN33	6.305	Regular	0.123115764	Snack Foods	95.6436	OUT046	1997	Small	Tier 1	Supermarket Type1	661.8052
+FDN27	20.85	Low Fat	0.039624006	Meat	117.2808	OUT049	1999	Medium	Tier 1	Supermarket Type1	1523.3504
+FDW20	20.75	Low Fat	0.040421193	Fruits and Vegetables	122.17299999999999	OUT010	1998		Tier 3	Grocery Store	369.519
+DRG27	8.895	Low Fat	0.10527411099999999	Dairy	39.9138	OUT049	1999	Medium	Tier 1	Supermarket Type1	690.4346
+DRI25	19.6	Low Fat	0.033970195	Soft Drinks	55.1614	OUT045	2002		Tier 2	Supermarket Type1	1381.535
+FDA44	19.7	Low Fat	0.053212652	Fruits and Vegetables	57.893	OUT035	2004	Small	Tier 2	Supermarket Type1	622.523
+NCR17	9.8	Low Fat	0.024378706	Health and Hygiene	114.5492	OUT035	2004	Small	Tier 2	Supermarket Type1	1274.3412
+FDU04		Low Fat	0.009714595	Frozen Foods	120.0414	OUT019	1985	Small	Tier 1	Grocery Store	487.3656
+FDF41	12.15	Low Fat	0.131383762	Frozen Foods	246.046	OUT049	1999	Medium	Tier 1	Supermarket Type1	1231.73
+FDB56	8.75	Regular	0.07461309	Fruits and Vegetables	187.4556	OUT035	2004	Small	Tier 2	Supermarket Type1	3755.112
+NCP18		Low Fat	0.028459761	Household	149.9708	OUT027	1985	Medium	Tier 3	Supermarket Type3	4363.6532
+FDB56	8.75	Regular	0.07462720099999999	Fruits and Vegetables	187.8556	OUT046	1997	Small	Tier 1	Supermarket Type1	1314.2892
+FDT28	13.3	Low Fat	0.063695084	Frozen Foods	151.0708	OUT045	2002		Tier 2	Supermarket Type1	1805.6496
