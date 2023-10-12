@@ -1,0 +1,11 @@
+mass,width,height,color_score,fruit_name,fruit_label
+176,7.4,7.2,0.6,apple,0
+178,7.1,7.8,0.92,apple,0
+156,7.4,7.4,0.84,apple,0
+140,7.3,7.1,0.87,apple,0
+154,7.1,7.5,0.78,orange,1
+180,7.6,8.2,0.79,orange,1
+154,7.2,7.2,0.82,orange,1
+118,5.9,8,0.72,lemon,2
+120,6,8.4,0.74,lemon,2
+118,6.1,8.1,0.7,lemon,2
