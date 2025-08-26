@@ -1,0 +1,25 @@
+#Iterative Fibonacci Series
+def fibo_series(n):
+    a=1
+    b=1
+    print("Fibonacci Series: ", end=' ')
+    #checking if the number is valid
+    if n<1:
+        print("Incorrect input")
+    elif n==1:
+    # checiking if only one input
+        print('0', end=' ')
+    elif n==2:
+    #checking if two inputs
+        print('0','1', end=' ')
+    else:
+    #printing with a certain range
+        print('0',a,b,end=' ')
+        for i in range(n-3):
+            c = a + b
+            print(c, end=' ')
+            a = b  
+            b = c
+        print()       
+         
+fibo_series(7)
