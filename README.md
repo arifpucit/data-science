@@ -34,3 +34,4 @@ Each section contains instructional notebooks and supporting resources.
    ```bash
    git clone https://github.com/arifpucit/data-science.git
    cd data-science
+"Contributed by Zafira Gulzar" 
